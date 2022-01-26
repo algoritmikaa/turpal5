@@ -1,0 +1,42 @@
+header img{
+    height: 58px;
+    width: 64px;
+}
+
+header{
+    background-color: rgb(14, 14, 99);
+    padding: 10px
+}
+
+a {
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+}
+
+main img{
+    width: 200px;
+    height: 100px;
+}
+
+h2 {
+    color: indigo;
+}
+
+ul{
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
+    margin: 20px;
+    color: green;
+}
+
+footer{
+    background-color: mediumblue;
+}
+
+footer p{
+    color: yellow;
+}
